@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Edu_X AI Tutor",
+  "description": "An advanced AI study companion for students, supporting English and Sinhala languages with a modern, focus-driven interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
